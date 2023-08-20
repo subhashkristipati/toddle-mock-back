@@ -1,0 +1,50 @@
+{
+  "boards": [
+    {
+      "title": "subbbbbbh",
+      "color": "#FFAEC0",
+      "id": 1,
+      "posts": [
+        {
+          "id": "post1",
+          "text": "subhash",
+          "likes": 31
+        },
+        {
+          "id": "post2",
+          "text": "su",
+          "likes": 9
+        },
+        {
+          "id": "1692524056813",
+          "text": "hi",
+          "description": "hi",
+          "likes": 1
+        }
+      ]
+    },
+    {
+      "title": "subhash",
+      "color": "#A7F0F9",
+      "id": 2,
+      "posts": [
+        {
+          "id": "1692519273562",
+          "text": "aaaaaaaaa",
+          "likes": 3
+        },
+        {
+          "id": "1692522374169",
+          "text": "subhash",
+          "likes": 1
+        },
+        {
+          "id": "1692528457004",
+          "text": "Galápagos Islands ",
+          "description": "The Galápagos Islands is a volcanic archipelago in the Pacific Ocean. It's considered one of the world's foremost destinations for wildlife-viewing. A province of Ecuador, it lies about 1,000km off its coast. Its isolated terrain shelters a diversity of plant and animal species, many found nowhere else. Charles Darwin visited in 1835, and his observation of Galapagos' species later inspired his theory of evolution.",
+          "likes": 0
+        }
+      ]
+    }
+  ]
+}
